@@ -1,0 +1,20 @@
+.grid-container {display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-template-rows: 100px 200px;
+gap: 10px;
+padding: 10px;
+}
+.grid.item{
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
+font-weight: bold;
+}
+
+#item1{background-color: red;}
+#item2{background-color: blueviolet;}
+#item3{background-color: green;}
+#item4{background-color: orange}
+#item5{background-color: pink;}
+#item6{background-color: teal;}
