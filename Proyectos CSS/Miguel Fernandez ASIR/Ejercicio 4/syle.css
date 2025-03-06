@@ -1,0 +1,14 @@
+.contenedor {display: flex;
+justify-content: space-around;
+padding: 20px;}
+
+.elemento {width: 100px;
+height: 100px;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;}
+
+#elemento1 {background-color: red;}
+#elemento2 {background-color: green;}
+#elemento3 {background-color: blue;}
