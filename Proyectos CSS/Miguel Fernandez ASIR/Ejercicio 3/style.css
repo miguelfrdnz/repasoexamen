@@ -1,0 +1,13 @@
+.caja {width: 300px;/*ancho caja*/
+height: 150px;/*alto caja*/
+background-color: yellow;/*color fondo*/
+border: 5px solid lightblue;/*borde 5px azul*/
+padding: 10px;/*relleno 10px*/
+margin: 20px;/*margen 20px*/
+display: flex;/*flexbox*/
+justify-content: center; /*centrado horizontal*/
+align-items: center;/*centrado vertical*/
+text-align: center;/*alineado al centro*/
+
+
+}
